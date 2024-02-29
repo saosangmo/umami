@@ -840,7 +840,7 @@
   "label.reports": [
     {
       "type": 0,
-      "value": "Reports"
+      "value": "Báo cáo"
     }
   ],
   "label.required": [
@@ -876,7 +876,7 @@
   "label.role": [
     {
       "type": 0,
-      "value": "Role"
+      "value": "Vai trò"
     }
   ],
   "label.run-query": [
@@ -894,25 +894,25 @@
   "label.screens": [
     {
       "type": 0,
-      "value": "Screens"
+      "value": "Màn hình"
     }
   ],
   "label.search": [
     {
       "type": 0,
-      "value": "Search"
+      "value": "Tìm kiếm"
     }
   ],
   "label.select": [
     {
       "type": 0,
-      "value": "Select"
+      "value": "Chọn"
     }
   ],
   "label.select-date": [
     {
       "type": 0,
-      "value": "Select date"
+      "value": "Chọn ngày"
     }
   ],
   "label.select-role": [
@@ -924,13 +924,13 @@
   "label.select-website": [
     {
       "type": 0,
-      "value": "Select website"
+      "value": "Chọn website"
     }
   ],
   "label.sessions": [
     {
       "type": 0,
-      "value": "Sessions"
+      "value": "Phiên"
     }
   ],
   "label.settings": [
@@ -966,25 +966,25 @@
   "label.team": [
     {
       "type": 0,
-      "value": "Team"
+      "value": "Nhóm"
     }
   ],
   "label.team-id": [
     {
       "type": 0,
-      "value": "Team ID"
+      "value": "Mã nhóm"
     }
   ],
   "label.team-member": [
     {
       "type": 0,
-      "value": "Team member"
+      "value": "Thành viên"
     }
   ],
   "label.team-name": [
     {
       "type": 0,
-      "value": "Team name"
+      "value": "Tên nhóm"
     }
   ],
   "label.team-owner": [
